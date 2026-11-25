@@ -1,0 +1,32 @@
+1:"$Sreact.fragment"
+2:I[5500,["/_next/static/chunks/04x8iqmgzxiiv.js","/_next/static/chunks/1_m-ihpjdi1al.js"],"Image"]
+3:I[22016,["/_next/static/chunks/04x8iqmgzxiiv.js","/_next/static/chunks/1_m-ihpjdi1al.js"],""]
+4:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+8:X
+17:X
+17:C
+0:{"buildId":"D-LXrVmvnb3j8IPsMrSgw","data":[{"rsc":["$","$1","c",{"children":[["$","section",null,{"className":"mx-auto flex max-w-3xl flex-col items-center px-4 py-32 text-center","children":[["$","$L2",null,{"src":"/brand/asf-seal-512.png","alt":"Apostille San Francisco logo","width":96,"height":96,"className":"h-24 w-24 rounded-full object-cover"}],["$","p",null,{"className":"eyebrow mt-8 text-gold-deep","children":"Not on file"}],["$","h1",null,{"className":"font-display mt-3 text-3xl leading-tight text-ink","children":["This page does not exist, ",["$","em",null,{"children":"but your document still qualifies."}]]}],["$","p",null,{"className":"mt-4 text-text-2","children":["Try the menu, or call ","(415) 439-0289"," and describe what you are holding."]}],["$","div",null,{"className":"mt-8 flex gap-3","children":[["$","$L3",null,{"href":"/","className":"btn btn-ink","children":"Back to the start"}],["$","a",null,{"href":"tel:+14154390289","className":"btn btn-ghost-ink","children":"Call"}]]}]]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0a0a0a"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"California Apostille Services | San Francisco Bay Area"}],["$","meta","1",{"name":"description","content":"San Francisco apostille service. We prepare, review, and file your documents at the California Secretary of State, same-day when capacity allows. $45 Document Check; $20 of the $45 is credited toward your apostille."}],["$","meta","2",{"name":"application-name","content":"Apostille San Francisco"}],["$","meta","3",{"name":"author","content":"Dante Tindal"}],["$","meta","4",{"name":"keywords","content":"apostille San Francisco,California apostille,same-day apostille Sacramento,federal apostille,FBI background check apostille,embassy legalization,Hague apostille"}],["$","meta","5",{"name":"creator","content":"Apostille San Francisco"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://apostillesanfrancisco.com/"}],["$","meta","8",{"property":"og:title","content":"California Apostille Services | San Francisco Bay Area"}],["$","meta","9",{"property":"og:description","content":"San Francisco apostille service. We prepare, review, and file your documents at the California Secretary of State, same-day when capacity allows. $45 Document Check; $20 of the $45 is credited toward your apostille."}],["$","meta","10",{"property":"og:url","content":"https://apostillesanfrancisco.com/"}],["$","meta","11",{"property":"og:site_name","content":"Apostille San Francisco"}],["$","meta","12",{"property":"og:locale","content":"en_US"}],["$","meta","13",{"property":"og:image","content":"https://apostillesanfrancisco.com/opengraph-image?42275fdfb3a58734"}],["$","meta","14",{"property":"og:image:type","content":"image/png"}],["$","meta","15",{"property":"og:image:width","content":"1200"}],["$","meta","16",{"property":"og:image:height","content":"630"}],["$","meta","17",{"property":"og:image:alt","content":"Apostille San Francisco: hand it to us. It comes back done, wherever you are."}],["$","meta","18",{"property":"og:type","content":"website"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"California Apostille Services | San Francisco Bay Area"}],["$","meta","21",{"name":"twitter:description","content":"San Francisco apostille service. We prepare, review, and file your documents at the California Secretary of State, same-day when capacity allows. $45 Document Check; $20 of the $45 is credited toward your apostille."}],["$","meta","22",{"name":"twitter:image","content":"https://apostillesanfrancisco.com/opengraph-image?42275fdfb3a58734"}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12"]}]}]}],"$L13"]}],"isPartial":"$@14","staleTime":"$8","varyParams":null},{"rsc":"$L15","isPartial":"$@16","staleTime":"$8","varyParams":"$17"}],"isUpgradeableISRFallback":false,"a":"$@18","rootVaryParams":null,"needsRuntimeRequest":"$@19"}
+1a:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1b:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+1c:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:null
+b:["$","meta","23",{"name":"twitter:image:alt","content":"Apostille San Francisco: hand it to us. It comes back done, wherever you are."}]
+c:["$","meta","24",{"name":"twitter:image:type","content":"image/png"}]
+d:["$","meta","25",{"name":"twitter:image:width","content":"1200"}]
+e:["$","meta","26",{"name":"twitter:image:height","content":"630"}]
+f:["$","link","27",{"rel":"icon","href":"/favicon.ico?favicon.11616syc452wx.ico","sizes":"32x32","type":"image/x-icon"}]
+10:["$","link","28",{"rel":"icon","href":"/icon.png?icon.0ynu1eudf6oog.png","sizes":"512x512","type":"image/png"}]
+11:["$","link","29",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.43rzalpwr5roa.png","sizes":"180x180","type":"image/png"}]
+12:["$","$L1a","30",{}]
+13:["$","meta",null,{"name":"next-size-adjust","content":""}]
+15:["$","$1","c",{"children":[null,["$","$L1b",null,{"parallelRouterKey":"children","template":["$","$L1c",null,{}]}]]}]
+19:true
+8:300
+8:C
+18:0
+14:"$undefined"
+16:"$undefined"
+7:"$undefined"

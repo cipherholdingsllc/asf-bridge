@@ -1,0 +1,13 @@
+# Generated from next.config.ts by scripts/cloudflare-pages-files.mjs (bridge/static-export). Do not edit in out/.
+
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  Content-Signal: search=yes, ai-input=yes, ai-train=no
+
+/og/*
+  Content-Type: image/png
+/opengraph-image
+  Content-Type: image/png

@@ -1,0 +1,54 @@
+# Content signals: allow search + AI grounding; AI training opt-out
+# Content-Signal: search=yes,ai-input=yes,ai-train=no
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# AI answer / retrieval bots — Allow
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+# Pure-scrape bots with no retrieval product — block
+User-agent: Bytespider
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+Sitemap: https://apostillesanfrancisco.com/sitemap.xml
